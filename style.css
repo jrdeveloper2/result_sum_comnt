@@ -232,7 +232,7 @@ body {
     background: linear-gradient(to bottom, var(--clr_background-Gradients-slate), var(--clr_background-Gradients-royal));
 }
 
-@media (min-width: 720px) {
+@media (max-width: 46rem;) {
     .result_summary_card {
         flex-direction: row;
 
